@@ -2,3 +2,11 @@
 learning git hub
 
 First commit from a branch
+<<<<<<< HEAD
+adfdsadf
+=======
+sadf
+afds
+adsf
+fdsa
+>>>>>>> 5696d39a96f62ca0fc5be6ab75be9bcae0bf53e8
